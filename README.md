@@ -1,0 +1,2 @@
+# MultipleDiseaseDetection
+Streamlit python project
